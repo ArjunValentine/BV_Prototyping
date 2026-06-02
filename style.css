@@ -61,6 +61,9 @@ header {
 
 .logo-text strong { font-weight: 700; }
 
+.logo-img { height: 48px; width: auto; display: block; }
+.logo-img-sm { height: 36px; }
+
 nav {
   display: flex;
   align-items: center;
